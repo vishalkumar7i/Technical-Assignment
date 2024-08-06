@@ -1,0 +1,4 @@
+Initialize Project: Create and configure a Next.js project.
+Install Dependencies: Add Mantine UI and Tailwind CSS.
+Create UI Component: Build the UpvoteButton component.
+Integrate Component: Use the button in the home page.
