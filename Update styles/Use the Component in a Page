@@ -1,0 +1,11 @@
+Integrate the UpvoteButton component into your main page (index.js):
+// pages/index.js
+import UpvoteButton from '../components/UpvoteButton';
+
+export default function Home() {
+  return (
+    <div className="flex justify-center items-center min-h-screen bg-gray-100">
+      <UpvoteButton />
+    </div>
+  );
+}
