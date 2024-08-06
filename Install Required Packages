@@ -1,0 +1,1 @@
+npm install @mantine/core @mantine/hooks tailwindcss postcss autoprefixer
